@@ -4,7 +4,7 @@
 # • Square of even numbers in a list
 # • Sum of digits of all EVEN numbers in a list
 # • Remove duplicate numbers in a list
-
+#dummy comment.
 
 my_list=[19,39,50,20,20,25,30,33,37,12]
 
